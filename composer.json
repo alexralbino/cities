@@ -1,5 +1,5 @@
 {
-    "name": "mixdinternet/cities",
+    "name": "alexralbino/cities",
     "description": "Pacote com os estados, cidades e bairros do Brasil",
     "keywords": ["laravel", "estados", "cidades", "bairros"],
     "license": "MIT",
@@ -12,9 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
-        "simplesoftwareio/simple-cache": "~1"
+        "php": ">=7.2"
     },
     "autoload": {
         "psr-4": {
